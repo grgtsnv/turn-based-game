@@ -1,0 +1,14 @@
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/bin/Debug/net9.0/[PROJECT]TurnBasedCombat
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/bin/Debug/net9.0/[PROJECT]TurnBasedCombat.deps.json
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/bin/Debug/net9.0/[PROJECT]TurnBasedCombat.runtimeconfig.json
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/bin/Debug/net9.0/[PROJECT]TurnBasedCombat.dll
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/bin/Debug/net9.0/[PROJECT]TurnBasedCombat.pdb
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/obj/Debug/net9.0/[PROJECT]TurnBasedCombat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/obj/Debug/net9.0/[PROJECT]TurnBasedCombat.AssemblyInfoInputs.cache
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/obj/Debug/net9.0/[PROJECT]TurnBasedCombat.AssemblyInfo.cs
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/obj/Debug/net9.0/[PROJECT]TurnBasedCombat.csproj.CoreCompileInputs.cache
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/obj/Debug/net9.0/[PROJECT]TurnBasedCombat.dll
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/obj/Debug/net9.0/refint/[PROJECT]TurnBasedCombat.dll
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/obj/Debug/net9.0/[PROJECT]TurnBasedCombat.pdb
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/obj/Debug/net9.0/[PROJECT]TurnBasedCombat.genruntimeconfig.cache
+/Users/georgitsanev/Documents/C# Course/[PROJECT]TurnBasedCombat/obj/Debug/net9.0/ref/[PROJECT]TurnBasedCombat.dll
